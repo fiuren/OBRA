@@ -30,3 +30,17 @@
 ## Uso de Git e Github
 
 Elaborouse un repositorio común cunha rama "master" principal e diversas ramas fillas con engadidos de diferentes persoas do equipo de programación, co obxectivo de non interferir co traballo individual pero ao mesmo tempo poder ver o progreso dos compañeiros e rescatar os elementos necesarios en cada momento da elaboración das distintas carpetas ou funcionalidades.
+
+<img src="https://user-images.githubusercontent.com/89069423/152795963-18b94a60-df40-4264-abf2-7f1f68471c14.png"/>
+<img src="https://user-images.githubusercontent.com/89069423/153570520-88311ce3-6312-44df-bbad-bbc7622dd4f7.png"/>
+<img src="https://user-images.githubusercontent.com/89069423/153570383-4bfcf451-3d50-4a7d-8652-e4f393b820da.png"/>
+<img src="https://user-images.githubusercontent.com/89069423/153570394-8d652070-f0cf-4b9b-8b09-e8173feb2657.png"/>
+<img src="https://user-images.githubusercontent.com/89069423/153570403-82fd4a9b-6db7-4e04-83ca-73b3dd265f57.png"/>
+<img src="https://user-images.githubusercontent.com/89069423/153570411-7fe2b539-a2cc-4f22-97fc-d306874b1812.png"/>
+
+
+
+
+
+
+
